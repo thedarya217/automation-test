@@ -4,11 +4,11 @@
 
 ## Overview
 
-This repository contains an automation test suite for [your project/product name]. The purpose of this test suite is to ensure that the functionality of the application is working as expected by automating the process of running various tests. This will help catch bugs earlier and speed up the testing process.
+This repository contains an automation test suite for panco app. The purpose of this test suite is to ensure that the functionality of the application is working as expected by automating the process of running various tests. This will help catch bugs earlier and speed up the testing process.
 
 ## Features
 
-- **Automated Tests**: The test suite automates the process of testing [mention what functionality or system the tests cover].
+- **Automated Tests**: The test suite automates the process of testing .
 - **Test Reports**: Detailed reports on test results, highlighting passed and failed tests.
 - **Cross-Browser Testing** (optional, if applicable): Supports running tests on multiple browsers (Chrome, Firefox, Safari, etc.).
 - **Continuous Integration Support** (optional, if applicable): Integrates with CI tools like Jenkins, CircleCI, or GitHub Actions for continuous testing.
@@ -53,7 +53,7 @@ To run the automation tests, simply execute the following command:
 
 ### Test Reports
 
-After the tests complete, you can find the results in the [report location or tool being used]. This could be a console log, HTML report, or a service like Allure Reports, depending on your setup.
+After the tests complete, you can find the results in the app. This could be a console log, HTML report, or a service like Allure Reports, depending on your setup.
 
 ## Contributing
 
@@ -68,7 +68,6 @@ If you'd like to contribute to this test suite, feel free to fork the repository
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
